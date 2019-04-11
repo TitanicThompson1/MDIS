@@ -1,0 +1,24 @@
+1
+
+Vx P(x) --> Q
+
+-,Vx P(x) v Q
+
+(E)x -. P(x) v Q
+
+Ex (-,P(x) v Q)
+
+Ex (P(x)-->Q)
+
+2
+
+Ex P(x) --> Q 
+
+-,Ex P(x) v Q
+
+Vx -,P(x) v Q
+
+Vx (-,P(x) v Q)
+
+Vx (P(x) --> Q)
+

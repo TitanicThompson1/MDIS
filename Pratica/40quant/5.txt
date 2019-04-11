@@ -1,0 +1,5 @@
+¬Vx (P(x) ^ Q(x))
+
+Ex (¬P(x) v ¬Q(x))
+
+Ex (P(x) -> ¬Q(x))
